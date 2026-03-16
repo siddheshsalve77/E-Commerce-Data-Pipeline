@@ -1,0 +1,15 @@
+# Passwords and Secrets
+config.py
+
+# Virtual Environment
+venv/
+
+# Data Files (too large for GitHub)
+raw_data/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
